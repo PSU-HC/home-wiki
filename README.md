@@ -21,7 +21,7 @@ Get the psu-hacking Ubuntu USB stick here!
 [Visit our iso-gen repo here](https://github.com/psu-hacking/iso-gen) to burn your own psu-hacking drive, build your own, or make ours better
 
 - Live, Persistent file storage
-- Fast: Ubuntu LTS + mkusb utility = efficient
+- Fast: Ubuntu LTS + mkusb (casper-rw) = efficient
 - Use (almost) any hardware- take your desktop OS with you
 - Completely self sufficient:  does not interact with your existing OS or other hard disks!
 
