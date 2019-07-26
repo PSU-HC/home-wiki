@@ -4,21 +4,21 @@
 
 # Resources:
 
-Email us:  user-hacking@plymouth.edu ||  contact@psuhacking.club  ||  
+Email us:  user-hacking@plymouth.edu ||  contact@psuhacking.club  
 
 *Next event TBA*
 
 Wiki:
-Visit our wiki here on Github!  
+[Visit our wiki here on Github!](https://github.com/psu-hacking/home/wiki/Hello!)
 
 PSU Knowledgebase:
-Visit the PSU KB here for other PSU supported software!
+[Visit the PSU KB here for other PSU supported software!](https://support.plymouth.edu/index.php?/Knowledgebase/List/Index/137/learning-tools-and-services)
 
-Ubuntu:
+**Ubuntu**
 
 Get the psu-hacking Ubuntu USB stick here!
 
-Visit our iso-gen repo here to burn your own psu-hacking drive, build your own, or make ours better
+[Visit our iso-gen repo here](https://github.com/psu-hacking/iso-gen) to burn your own psu-hacking drive, build your own, or make ours better
 
 - Live, Persistent file storage
 - Fast: Ubuntu LTS + mkusb utility = efficient
